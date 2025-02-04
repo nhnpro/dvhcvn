@@ -1,6 +1,6 @@
 # Các đơn vị hành chính Việt Nam
 
-Dữ liệu được cập nhật từ [daohoangson/dvhcvn](https://github.com/daohoangson/dvhcvn).
+Dữ liệu được cập nhật từ [nhnpro/dvhcvn](https://github.com/nhnpro/dvhcvn).
 
 ## Ví dụ sử dụng
 

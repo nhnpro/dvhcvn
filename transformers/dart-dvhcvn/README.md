@@ -1,6 +1,6 @@
 # Các đơn vị hành chính Việt Nam
 
-Dữ liệu được cập nhật từ [daohoangson/dvhcvn](https://github.com/daohoangson/dvhcvn).
+Dữ liệu được cập nhật từ [nhnpro/dvhcvn](https://github.com/nhnpro/dvhcvn).
 
 ## Ví dụ sử dụng
 
@@ -20,9 +20,9 @@ print(phucXa); // Thành phố Hà Nội > Quận Ba Đình > Phường Phúc X�
 
 ### Flutter
 
-https://github.com/daohoangson/flutter-dvhcvn
+https://github.com/nhnpro/flutter-dvhcvn
 
-<img src="https://github.com/daohoangson/flutter-dvhcvn/raw/master/screenshots/demo.gif" width="300" />
+<img src="https://github.com/nhnpro/flutter-dvhcvn/raw/master/screenshots/demo.gif" width="300" />
 
 ## API
 
