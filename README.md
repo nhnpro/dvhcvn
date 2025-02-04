@@ -163,7 +163,7 @@ Bộ dữ liệu này được tạo ra vì các dự án tương tự trên m�
 Nếu vì lý do nào đó bạn không muốn dùng dữ liệu có sẵn tại đây và muốn tự tải về trực tiếp từ nguồn, thực hiện các câu lệnh như sau:
 
 ```bash
-git clone https://github.com/daohoangson/dvhcvn.git
+git clone https://github.com/nhnpro/dvhcvn.git
 cd dvhcvn
 
 # xoá dữ liệu có sẵn
